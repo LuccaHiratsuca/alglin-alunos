@@ -15,7 +15,7 @@
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
-|testeçdlksa
+|teste
 
 # Dinâmica das aulas
 
